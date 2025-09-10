@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCWC", "CCWC.csproj", "{A807E42F-2A63-465C-A3ED-6950AAD65297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A807E42F-2A63-465C-A3ED-6950AAD65297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A807E42F-2A63-465C-A3ED-6950AAD65297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A807E42F-2A63-465C-A3ED-6950AAD65297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A807E42F-2A63-465C-A3ED-6950AAD65297}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
